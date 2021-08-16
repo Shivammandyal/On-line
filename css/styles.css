@@ -18,7 +18,7 @@
 /* Typography */
 
 html {
-  /* 62.5% of 16px = 10px */
+  /* 62.5% of 16px = 10px which means that 10px = 1rem & 15px = 1.5rem*/
   font-size: 62.5%;
 }
 
